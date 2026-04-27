@@ -1,0 +1,17 @@
+{
+  "name": "uno-discord-bot",
+  "version": "1.0.0",
+  "description": "Professional UNO game bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "sqlite3": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
